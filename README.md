@@ -54,7 +54,7 @@ Note that the command should be executed under the project path.
 dfx start --clean
 ````
 
-output：...Sep 28 10:58:37.520 INFO Starting server. Listening on http://0.0.0.0:8000/,Indicates a successful start on the 8000
+output：...Sep 28 10:58:37.520 INFO Starting server. Listening on http://0.0.0.0:8000 ,Indicates a successful start on the 8000
 
 #### 1.3 Deploy local canister
 
