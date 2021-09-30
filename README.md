@@ -1,6 +1,6 @@
 
 
-<img src="https://cdn.discordapp.com/attachments/891583129452691456/892730559162384384/0xdrive-logo.png" alt="avatar" style="zoom:30%;" />
+<img src="https://cdn.discordapp.com/attachments/891583129452691456/892730559162384384/0xdrive-logo.png" alt="avatar" width = "500" height = "150" alt="" style="text-align:center" />
 
 - [About](#about-about)
 - [Technology](#technology)
@@ -30,7 +30,7 @@
 ## Technology
 
 0xDrive develops a unified application programming interface specification, including encryption, decryption, storage, reading, slicing and other functions for data, and will be implemented as an open source SDK. 0xDrive is also a storage Hub that can support data storage on different decentralized networks such as IPFS and ICP.
-<img src="https://cdn.discordapp.com/attachments/891583129452691456/892730712237678592/20210929190649.png" alt="avatar" style="zoom:50%;" />
+<img src="https://cdn.discordapp.com/attachments/891583129452691456/892730712237678592/20210929190649.png" alt="avatar"  width = "500" height = "500" />
 
 ## Smart Contracts
 
